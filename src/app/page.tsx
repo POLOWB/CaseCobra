@@ -1,6 +1,6 @@
 import Image from "next/image";
 import MaxWidthWrapper from "@/components/MaxWidthWrapper";
-import { Check, LucideCheck, Star } from "lucide-react";
+import { Check, Star } from "lucide-react";
 import Phone from "@/components/Phone";
 
 export default function Home() {
