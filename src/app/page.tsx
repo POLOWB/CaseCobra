@@ -98,7 +98,7 @@ export default function Home() {
               <div className="flex gap-4 mt-2">
                 <img className="rounded-full h-12 w-12 object-cover" src="/users/user-1.png" alt="user"/>
                 <div className="flex flex-col">
-                  <p className="font-semi-bold">Jonathan</p>
+                  <p className="font-semi-bold">Arnold</p>
                   <div className="flex gap-1.5 items-center text-zinc-600">
                   <Check className="h-4 w-4 stroke=[3px] text-green-600"/>
                   <p className="text-sm">Verified Purchase</p>
